@@ -1,0 +1,67 @@
+body{
+	margin:0;
+  padding:0;
+ background:url("../image/background.jpg") no-repeat center fixed; 
+  -webkit-background-size: cover; /* pour anciens Chrome et Safari */
+  background-size: cover; /* version standardisée */
+}
+#conteneur{
+	display : flex;
+	flex-wrap: wrap;
+	height : 100%;
+	width : 100%;
+}
+#contenuFirst{
+	height : auto; 
+	width : 90%; 
+}
+
+#TimeIsIt{
+	padding-top : 1%;
+	width : 50%; 
+	margin-left : 30%;
+	text-align: center;
+	border : solid 1px black;
+	background-color : #A6D9FF;
+}
+
+#Historique{
+	height : auto;
+	padding : 5px 5px 0px 5px;
+	border : 1px dotted black;
+	background-color :rgba(211,211,211,0.5);
+	margin-top : 5%;
+}
+
+#Subconteneur{
+	padding-top : 1%;
+	display : flex;
+	justify-content : space-around;
+}
+#SubNews1{
+		width : 37%;
+		border : 1px dotted black;
+		padding : 10px 10px 10px 10px;
+		background-color :rgba(211,211,211,0.5);
+}
+#SubNews2{
+		width : 43%;
+		border : 1px dotted black;
+		padding : 10px 10px 10px 10px;
+}
+#contenuSecond{
+	display : flex;
+	flex-direction : column;
+	/*background: #ff8d00;*/
+	height : auto; 
+	width : 10%;
+}
+
+#LogoSekoya{
+	width: 15%;
+	height: 10%;
+	float : left;
+}
+
+
+

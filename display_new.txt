@@ -1,0 +1,1 @@
+<h2>Bienvenue dans la version 1 du tableau d'affichage</h2>

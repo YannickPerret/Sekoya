@@ -1,0 +1,18 @@
+<h2>LE MEILLEUR DE LA NATURE POUR VOTRE BIEN-&Ecirc;TRE</h2>
+
+<h3>BIENVENUE CHEZ SEKOYA</h3>
+
+<p>Convaincu que la qualit&eacute; de vie passe par une excellente sant&eacute;, et que notre alimentation y est pour beaucoup, Sekoya collabore &eacute;troitement avec des nutritionnistes et des naturopathes afin de proposer des solutions concr&egrave;tes &agrave; toutes celles et ceux qui ont d&eacute;cid&eacute; d&#39;agir pour pr&eacute;server naturellement leur sant&eacute; et rester en forme.</p>
+
+<p>Chaque jour nous apportons une attention particuli&egrave;re &agrave; la qualit&eacute; des produits. Tous les compl&eacute;ments alimentaires Sekoya sont fabriqu&eacute;s en Suisse, 100% naturels et de haute valeur biologique.</p>
+
+<h2>D&eacute;couvrez notre derni&egrave;re offre&nbsp;</h2>
+
+<table border="0" cellpadding="1" cellspacing="1" style="width:500px">
+	<tbody>
+		<tr>
+			<td><img alt="" src="http://192.168.3.72:81/sekoya/V1/image/promohivergauche_en.png" style="height:465px; width:600px" /></td>
+			<td><img alt="" src="http://localhost:81/sekoya/V1/image/promohiverdroite.png" style="height:465px; width:600px" /></td>
+		</tr>
+	</tbody>
+</table>
