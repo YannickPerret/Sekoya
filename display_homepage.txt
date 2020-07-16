@@ -1,0 +1,9 @@
+<h3><span dir="ltr" lang="fr">LE MEILLEUR DE LA NATURE POUR VOTRE BIEN-&Ecirc;TRE</span></h3>
+
+<h4><span dir="ltr" lang="fr">BIENVENUE CHEZ SEKOYA</span></h4>
+
+<p><span dir="ltr" lang="fr">Convaincu que la qualit&eacute; de vie passe par une excellente sant&eacute;, et que notre alimentation y est pour beaucoup, Sekoya collabore &eacute;troitement avec des nutritionnistes et des naturopathes afin de proposer des solutions concr&egrave;tes &agrave; toutes celles et ceux qui ont d&eacute;cid&eacute; d&#39;agir pour pr&eacute;server naturellement leur sant&eacute; et rester en forme.</span></p>
+
+<h2><span dir="ltr" lang="fr">D&eacute;couvrez notre derni&egrave;re formation</span></h2>
+
+<p style="text-align:center"><iframe align="middle" frameborder="0" height="515" scrolling="no" src="https://www.youtube.com/embed/SxoxHwDVU0o" width="950"></iframe></p>
